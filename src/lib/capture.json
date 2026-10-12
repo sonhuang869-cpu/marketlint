@@ -1,0 +1,154 @@
+{
+  "capturedAt": "2026-10-12T18:26:10.379Z",
+  "origin": "https://cold-beverages.com",
+  "pages": [
+    {
+      "path": "/",
+      "status": 200,
+      "title": "C°LD Sparkling Water ohne Zucker: Wasser mit Geschmack",
+      "titleLen": 54,
+      "lang": "de",
+      "canonical": "https://cold-beverages.com/",
+      "hreflang": [],
+      "ogLocale": null,
+      "metaDescLen": 140,
+      "h1Count": 1,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "FAQPage"
+      ],
+      "product": null
+    },
+    {
+      "path": "/collections/all",
+      "status": 200,
+      "title": "Sparkling Water ohne Zucker: Wasser mit Geschmack | C°LD",
+      "titleLen": 56,
+      "lang": "de",
+      "canonical": "https://cold-beverages.com/collections/all",
+      "hreflang": [],
+      "ogLocale": null,
+      "metaDescLen": 151,
+      "h1Count": 1,
+      "schemaTypes": [
+        "Organization",
+        "WebSite"
+      ],
+      "product": null
+    },
+    {
+      "path": "/products/c-ld-lime",
+      "status": 200,
+      "title": "Lime Sparkling Water – C°LD",
+      "titleLen": 27,
+      "lang": "de",
+      "canonical": "https://cold-beverages.com/products/c-ld-lime",
+      "hreflang": [],
+      "ogLocale": null,
+      "metaDescLen": 142,
+      "h1Count": 1,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Product",
+        "BreadcrumbList"
+      ],
+      "product": {
+        "name": "Lime Sparkling Water",
+        "sku": "COLD12LI",
+        "gtin": "4262603970074",
+        "brand": "C°LD",
+        "images": 1,
+        "hasReturnPolicy": false,
+        "hasShippingDetails": true,
+        "offer": {
+          "price": "14.29",
+          "currency": "EUR",
+          "availability": "https://schema.org/OutOfStock",
+          "validUntil": "2027-12-31",
+          "url": "https://cold-beverages.com/products/c-ld-lime"
+        }
+      }
+    },
+    {
+      "path": "/products/probierpaket",
+      "status": 200,
+      "title": "Probierpaket: 5 Sorten Sparkling Water ohne Zucker | C°LD",
+      "titleLen": 57,
+      "lang": "de",
+      "canonical": "https://cold-beverages.com/products/probierpaket",
+      "hreflang": [],
+      "ogLocale": null,
+      "metaDescLen": 130,
+      "h1Count": 1,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Product",
+        "BreadcrumbList"
+      ],
+      "product": {
+        "name": "Probierpaket",
+        "sku": "COLD5PR",
+        "gtin": "4262603970104",
+        "brand": "C°LD",
+        "images": 1,
+        "hasReturnPolicy": false,
+        "hasShippingDetails": true,
+        "offer": {
+          "price": "8.75",
+          "currency": "EUR",
+          "availability": "https://schema.org/OutOfStock",
+          "validUntil": "2027-12-31",
+          "url": "https://cold-beverages.com/products/probierpaket"
+        }
+      }
+    },
+    {
+      "path": "/pages/our-story",
+      "status": 200,
+      "title": "Unsere Story: Wie C°LD Sparkling Water ohne Zucker entstand",
+      "titleLen": 59,
+      "lang": "de",
+      "canonical": "https://cold-beverages.com/pages/our-story",
+      "hreflang": [],
+      "ogLocale": null,
+      "metaDescLen": 148,
+      "h1Count": 1,
+      "schemaTypes": [
+        "Organization",
+        "WebSite"
+      ],
+      "product": null
+    },
+    {
+      "path": "/blogs/news",
+      "status": 200,
+      "title": "Wissen rund um Sparkling Water ohne Zucker | C°LD",
+      "titleLen": 49,
+      "lang": "de",
+      "canonical": "https://cold-beverages.com/blogs/news",
+      "hreflang": [],
+      "ogLocale": null,
+      "metaDescLen": 127,
+      "h1Count": 1,
+      "schemaTypes": [
+        "Organization",
+        "WebSite"
+      ],
+      "product": null
+    }
+  ],
+  "shopify": {
+    "theme": "CoLD — Wissen light blue 2026-10-02 — REVIEW & ...",
+    "themeRole": "main",
+    "country": "DE",
+    "locale": "de",
+    "currency": "EUR"
+  },
+  "ukDomain": {
+    "reachable": false,
+    "error": "page.goto: Timeout 25000ms exceeded."
+  }
+}
